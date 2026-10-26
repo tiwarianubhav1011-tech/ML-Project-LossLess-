@@ -1,0 +1,9 @@
+path: /Users/anubhav/Downloads/ML-Project-LossLess-/MAIN_FOLDER/Road_Damage_YOLO_Real_Synthetic
+train: images/train
+val: images/val
+test: images/test
+names:
+  0: Longitudinal
+  1: Transverse
+  2: Alligator
+  3: Pothole
